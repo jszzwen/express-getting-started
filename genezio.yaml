@@ -11,6 +11,6 @@ backend:
     scripts:
         deploy:
             - npm install
-name: express-getting-started
+name: jszzwen
 region: us-east-1
 yamlVersion: 2
